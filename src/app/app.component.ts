@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'AppExamen Junio Examen PRESENTACION 2022';
+  title = 'AppExamen Junio Examen PRESENTACION 2022 KTECU';
 }
